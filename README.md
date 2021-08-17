@@ -1,3 +1,3 @@
 # collaboration
 DCI 170821
-"i wrote this line" Ömer 
+That's a line added by Jakub.
